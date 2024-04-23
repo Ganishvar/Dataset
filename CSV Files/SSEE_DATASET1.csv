@@ -1,4 +1,4 @@
-9,Armature Current,Armature Voltage,Electrical Torque,Speed(RPM),Power Input,Failure,Status
+S.no,Armature Current,Armature Voltage,Electrical Torque,Speed(RPM),Power Input,Failure,Status
 1,19.04745617,235.7122698,21.85468575,1831.165682,4489.719129,0,Normal
 2,19.06470698,235.7105604,21.87455462,1831.039946,4493.752766,0,Normal
 3,19.08195778,235.708851,21.89442349,1830.914209,4497.786345,0,Normal
