@@ -1,3 +1,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 leaf_folded_healthy.zip filter=lfs diff=lfs merge=lfs -text
 Strawberry_Images.zip filter=lfs diff=lfs merge=lfs -text
+dataset_leaves.zip filter=lfs diff=lfs merge=lfs -text
+dataset_leaves_1.zip filter=lfs diff=lfs merge=lfs -text
